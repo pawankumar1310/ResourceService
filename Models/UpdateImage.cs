@@ -1,4 +1,4 @@
-﻿namespace NewFolder
+﻿namespace Models
 {
     public class UpdateImage
     {

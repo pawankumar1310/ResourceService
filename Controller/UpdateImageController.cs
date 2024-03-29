@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using NewFolder;
+using Models;
 using System.Data.SqlClient;
 using System.Data;
 

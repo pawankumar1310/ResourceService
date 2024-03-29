@@ -1,22 +1,9 @@
 
-
-
-//using DBService;
-//using Service;
-//using Structure;
-
 var builder = WebApplication.CreateBuilder(args);
 
-
-
 builder.Services.AddControllers();
-//builder.Services.AddScoped<IFileStorage,FileStorageDB>();
-//builder.Services.AddScoped<SaveFileService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-
-
 
 
 builder.Services.AddCors(options =>

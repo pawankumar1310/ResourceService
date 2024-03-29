@@ -1,4 +1,4 @@
-﻿using NewFolder;
+﻿using Models;
 
 namespace Structure
 {

@@ -5,7 +5,7 @@
 //using System.Data.SqlClient;
 //using Structure;
 //using Microsoft.AspNetCore.StaticFiles;
-//using NewFolder;
+//using Models;
 //using System.Data;
 
 //namespace Controllers

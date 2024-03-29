@@ -1,4 +1,4 @@
-﻿namespace NewFolder
+﻿namespace Models
 {
     // ImageModel.cs
     public class ImageModel
